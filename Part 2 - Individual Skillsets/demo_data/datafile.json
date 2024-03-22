@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "published": 1851
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "published": 1813
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "published": 1949
+    }
+]

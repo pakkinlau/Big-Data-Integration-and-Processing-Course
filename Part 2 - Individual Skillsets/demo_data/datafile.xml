@@ -1,0 +1,17 @@
+<books>
+    <book>
+        <title>Moby Dick</title>
+        <author>Herman Melville</author>
+        <published>1851</published>
+    </book>
+    <book>
+        <title>Pride and Prejudice</title>
+        <author>Jane Austen</author>
+        <published>1813</published>
+    </book>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <published>1949</published>
+    </book>
+</books>
